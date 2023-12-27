@@ -1,0 +1,25 @@
+Tree Space vous remercie de votre achat !
+Si vous avez le moindre soucis avec le pack n'hésitez pas à venir nous en parler sur notre discord !
+N'oubliez pas un petit avis nous aiderons énormément^^
+
+Pour la configuration :
+Les tenues vous seront fournis sur le discord !
+
+A start dans votre server.cfg :
+
+#### Tree Space ####
+
+ensure TS_Policenatiovhl
+ensure TS_Policenatiojob
+ensure TS_Policenatiomap
+
+#### ScriptPN ####
+
+ensure bouclier
+ensure calculator
+ensure Gazeuse
+ensure lvc
+ensure Props
+ensure Props1
+ensure RageUI
+ensure spawnmodi
